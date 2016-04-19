@@ -1,0 +1,4 @@
+ID	Cancer_Type	Chromosome_Arm	TP53_Mutation_Count	TP53_ChrArm_event	Non-Double_Mutation	Total
+HNSC_3p	HNSC	3p	366	321	183	504
+Gross_HNSC_3p	HNSC	3p	NA	260	116	376
+p-value: 0.09813503
